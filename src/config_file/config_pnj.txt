@@ -1,0 +1,5 @@
+INRO_PNJ pnj 1144 2228 ./src/sprite/pnj/pnj.png ./src/config_file/dialogue/blacksmith.txt
+GIVER_PNJ pnj 269 5641 ./src/sprite/pnj/giver.png ./src/config_file/dialogue/blacksmith.txt
+BOSS_LEFT pnj 1687 6000 ./src/sprite/pnj/boss_left.png ./src/config_file/dialogue/blacksmith.txt
+BOSS_MID pnj 1867 6000 ./src/sprite/pnj/boss_mid.png ./src/config_file/dialogue/blacksmith.txt
+BOSS_RIGHT pnj 2020 6000 ./src/sprite/pnj/boss_right.png ./src/config_file/dialogue/blacksmith.txt

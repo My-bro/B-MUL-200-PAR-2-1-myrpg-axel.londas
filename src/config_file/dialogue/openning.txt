@@ -1,0 +1,6 @@
+You : Wow, this place looks dangerous.
+I hope I'll be okay. |Stranger : Hey, traveler! You must be new here.
+Take this armor,
+it's dangerous around these parts. |You : Thanks, I'll be careful. |Stranger : You're welcome! Head to the blacksmith nearby.
+My friend there will give you a weapon to defend yourself.
+Good luck!

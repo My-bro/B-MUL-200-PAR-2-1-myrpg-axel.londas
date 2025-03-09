@@ -1,0 +1,4 @@
+You : Excuse me, are you the blacksmith ? |Blacksmith : Aye, that's me! I heard you need a weapon. |You : Yes, your friend sent me.
+I could really use something for protection. |Blacksmith : Here, take this sword.
+It'll serve you well.
+Stay safe out there, adventurer !
